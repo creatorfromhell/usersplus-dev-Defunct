@@ -8,6 +8,6 @@
  * Last Modified by Daniel Vidmar.
  */
 ?>
-<footer><p>UsersPlus is copyright &copy; 2014 - <?php echo date('Y'); ?> <a href="http://creatorfromhell.com">Daniel V.</a>.</p></footer>
+<footer><p>UsersPlus is copyright &copy; 2014 <a href="http://creatorfromhell.com">Daniel V.</a>.</p></footer>
 </body>
 </html>
