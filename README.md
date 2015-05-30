@@ -1,4 +1,6 @@
-usersplus-dev
-=============
+#Users Plus
 
-UsersPlus is a simple, easy-to-use and flexible user management system written in PHP.
+##Info
+License: [Found Here](License.txt)
+
+Scrutinizer Quality: [![Code Quality](https://scrutinizer-ci.com/g/creatorfromhell/usersplus-dev/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/creatorfromhell/usersplus-dev/?branch=master)
